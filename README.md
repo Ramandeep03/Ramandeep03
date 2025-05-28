@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- **Experience:** 3.5 years as a Flutter developer
+- **Experience:** 4.5 years as a Flutter developer
 - **Additional Skills:** SwiftUI, React Native
 - **Passion:** Crafting high-quality, scalable, and maintainable mobile applications.
 - **Focus:** Clean Architecture, MVVM, and state management using BLoC for Flutter applications.
