@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Ramandeep
 
-🎯 **Flutter Developer** with **4.5 years of experience** in building robust and beautiful mobile applications.
+🎯 **Flutter Developer** with **5 years of experience** in building robust and beautiful mobile applications.
 
 ---
 
 ### 🚀 About Me
-- **Experience:** 4.5 years as a Flutter developer
+- **Experience:** 5 years as a Flutter developer
 - **Additional Skills:** SwiftUI, React Native
 - **Passion:** Crafting high-quality, scalable, and maintainable mobile applications.
 - **Focus:** Clean Architecture, MVVM, and state management using BLoC for Flutter applications.
@@ -21,8 +21,8 @@
   - Appwrite
   - RESTful APIs
   - GraphQL integrations
-- **State Management:** BLoC, Provider
-- **Database:** Hive, SQLite
+- **State Management:** BLoC, Provider, GetX
+- **Database:** Hive, SQLite, GetStorage
 - **Tools & Technologies:**
   - Git & GitHub
   - Unit Testing
